@@ -1,6 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanditha M
+==================================================================================================================================
+
 Frontend Developer
-I am a frontend developer and loves react.* 🌍  I'm based in Kozhikode,Kerala* ✉️  You can contact me at [mnanditha71@gmail.com](mailto:mnanditha71@gmail.com)* 🧠  I'm learning DSA* 🤝  I'm open to collaborating on Interesting projects* ⚡  I'm on a vacation ... don't tell anyone
+------------------
+
+I am a frontend developer who loves react.
+
+*   🌍  I'm based in Kozhikode,Kerala
+*   ✉️  You can contact me at [mnanditha71@gmail.com](mailto:mnanditha71@gmail.com)
+*   🧠  I'm learning DSA
+*   🤝  I'm open to collaborating on interesting projects
+*   ⚡  I'm a phoenix ... don't tell anyone
 
 ### Skills
 
